@@ -56,7 +56,7 @@
     <h2 class="text-3xl font-semibold mb-6 text-blue-700">Experience</h2>
     <div class="space-y-6">
       <div class="bg-white p-6 rounded-lg shadow-md">
-        <h3 class="text-xl font-bold">Security Guard (IT Systems Exposure)</h3>
+        <h3 class="text-xl font-bold">IT Support (IT Systems Exposure)</h3>
         <p class="text-gray-600">Dubai Maritime City | 2023 – 2024</p>
         <ul class="list-disc list-inside mt-2 text-gray-700 leading-relaxed">
           <li>Monitored and maintained security systems including CCTV and access control devices.</li>
